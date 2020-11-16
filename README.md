@@ -7,6 +7,6 @@
 - [pygame](https://www.pygame.org/wiki/GettingStarted)
 
 # Setting Up
-Once you have cloned the repo onto your local machine, you must open up the command prompt and install the pip3 package using the instructions and commend lines provided in the link above. Once that is installed, you can install the pygame package using the command prompt onto your local machine by following the instructions in the link provided above. Once those two packages have been installed, you can run the code and try it out.
+Once you have cloned the repo onto your local machine, you will need to install pip3 and pygame into your machine along with the repo as without those two packages the program will not run. Before you can go ahead and install pygame, you will require to have pip3 preinstalled. You can install pip3 using the instructions provided in the link above. Once you have pip3, you can begin the process of installing pygame, which much like pip3 can be installed easily using the instruction in the link above. Once those packages have been installed onto your computer, you can now run the script. 
 
 
