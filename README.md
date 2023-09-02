@@ -1,5 +1,5 @@
 # Arcade Game Emulator
- This program is a testament to my deep understanding and mastery of that language. It contains three different games within itself, each with its own scoring system, sounds, pictures, style, music, start screen, and end screen. The games are all interactive, and visual, they are like you are looking at a real arcade screen, they are not text-based games where you have to write something which would go through a series of if-else statements which would thus making your action happen.
+ This program is a testament to my deep understanding and mastery of that language. It contains three different games within itself, each with its own scoring system, sounds, pictures, style, music, start screen, and end screen. The games are a quiz game, a number guessing game, and an imitation of the popular arcade classic, Whack-a-mole. I have implemented a complete graphical user interface, allowing all application elements to be accessed using the click of one's mouse.
 
  # Requirements
 - [Python >= 3.7.4](https://www.python.org/downloads/)
